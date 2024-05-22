@@ -2,3 +2,4 @@ SinglePinDevice	KEYWORD1
 begin	KEYWORD2
 turnOn KEYWORD2
 turnOff KEYWORD2
+getPin KEYWORD2
